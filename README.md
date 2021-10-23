@@ -1,1 +1,1 @@
-# JS-Course---Coderhouse
+# JS-Course-Coderhouse (Tomás Rey)
